@@ -11,7 +11,7 @@ Stata code files for computing results and drawing graphs:
 - computeRbarDeaths.do:  Stata code for computing Rbar and Rtilde for deaths
 
 
-PEPNorway20037z is a zip file containing 1000 input files from PEP, one for each sample: 
+PEPNorway2003.7z is a zip file containing 1000 input files from PEP, one for each sample: 
 
 - Px_d1.S1 with x = 1(1)1000.
 
