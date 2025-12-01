@@ -17,6 +17,8 @@ PEPNorway2003.7z is a zip file containing 1000 input files from PEP, one for eac
 
 - Columns M0, M1, M2, ... F0, F1, F2, ... represent numbers of men (women) aged 0, 1, 2, ...
 
-- Rows 1, 2, 3 represent calendar years 2004, 2005, 2006 etc.     
+- Rows 1, 2, 3 represent calendar years 2004, 2005, 2006 etc.
+
+obs2003.dta is a Stata file with data for 2003
 
 
