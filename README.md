@@ -11,9 +11,9 @@ Stata code files for computing results and drawing graphs:
 - computeRbarDeaths.do:  Stata code for computing Rbar and Rtilde for deaths
 
 
-Input files from PEP: 
+PEPNorway20037z is a zip file containing 1000 input files from PEP, one for each sample: 
 
-- Px_d1.S1 with x = 1(1)1000 are one thousand files, one for each sample.
+- Px_d1.S1 with x = 1(1)1000.
 
 - Columns M0, M1, M2, ... F0, F1, F2, ... represent numbers of men (women) aged 0, 1, 2, ...
 
