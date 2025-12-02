@@ -1,6 +1,8 @@
 # GoFIJF
-PEP files and Stata code to reproduce results in International Journal of Forecasting paper entitled "Assessing the accuracy of probabilistic
-population forecasts" by Juha Alho and Nico Keilman.
+PEP files and Stata code to reproduce results in International Journal of Forecasting paper entitled "Assessing the accuracy of probabilistic population forecasts" by Juha Alho and Nico Keilman.
+Contact: nico.keilman@econ.uio.no
+Date: 2 December 2025
+
 
 Stata code files for computing results and drawing graphs: 
 
@@ -19,6 +21,12 @@ PEPNorway2003.7z is a zip file containing 1000 input files from PEP, one for eac
 
 - Rows 1, 2, 3 represent calendar years 2004, 2005, 2006 etc.
 
-obs2003.dta is a Stata file with data for 2003
+obs2003.dta is a Stata file with empirical population data for 2003 (1 January)
+
+observations.dta is a Stata file with empirical data for births, deaths, migration, and population by age 2003 - 2023
+
+bookkeeping.xlsx is an Excel file for register errors reported in Appendix 1.
+
+
 
 
