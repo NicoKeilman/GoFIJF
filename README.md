@@ -1,7 +1,11 @@
 # GoFIJF
 PEP files and Stata code to reproduce results in International Journal of Forecasting paper entitled "Assessing the accuracy of probabilistic population forecasts" by Juha Alho and Nico Keilman.
+
 Contact: nico.keilman@econ.uio.no
+
 Date: 2 December 2025
+
+Three Stata (version 19.5, Standard Edition) analyses - one for net-migration, one for deaths, one for births - took approximately 3 x 10 minutes on an ordinary PC.
 
 
 Stata code files for computing results and drawing graphs: 
@@ -11,6 +15,8 @@ Stata code files for computing results and drawing graphs:
 - computeRbarbirths2.do: Stata code for computing Rbar and Rtilde for births
 
 - computeRbarDeaths.do:  Stata code for computing Rbar and Rtilde for deaths
+
+!!NB Modify working directory !!
 
 
 PEPNorway2003.7z is a zip file containing 1000 input files from PEP, one for each sample: 
