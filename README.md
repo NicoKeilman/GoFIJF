@@ -29,7 +29,9 @@ PEPNorway2003.7z is a zip file containing 1000 input files from PEP, one for eac
 
 obs2003.dta is a Stata file with empirical population data for 2003 (1 January)
 
-observations.dta is a Stata file with empirical data for births, deaths, migration, and population by age 2003 - 2023
+observations.dta is a Stata file with empirical data for deaths and population by age, and births 2003 - 2023
+
+obsMig.dta is a Stata file with empirical data for net-migration and population by age 2003 - 2023
 
 bookkeeping.xlsx is an Excel file for register errors reported in Appendix 1.
 
